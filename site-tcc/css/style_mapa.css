@@ -1,0 +1,19 @@
+#mapacaloratual,#mapacalorhis {
+  height: 500px;
+}
+#map2 {
+  height: 360px;
+}
+#map3 {
+  height: 360px;
+}
+/* Optional: Makes the sample page fill the window. */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#estacoes {
+  height: 360px;
+}
